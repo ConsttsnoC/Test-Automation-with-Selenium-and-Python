@@ -19,11 +19,8 @@
  <div>
       <h1>Всем привет, я <a href="https://www.gilmanov.net/" target="_blank">Константин</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
       <h3>Этот репозиторий содержит решения тестовых заданий по автоматизации тестирования:
-
-  <center>
-<h2><a href="https://knalser.pythonanywhere.com/">DEMO VERSION</a></h2>
-</center>
-
+<br>
+<br>
 <li>Создано на Python</li>
 <li>Используется selenium - 4.1.0</li>
 
