@@ -13,7 +13,8 @@
 <!-- Иконки -->
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3.10.7-green">
-    <img src="https://img.shields.io/badge/selenium-4.1.0-yellow">
+    <img src="https://img.shields.io/badge/Selenium-4.1.0-yellow">
+    <img src="https://img.shields.io/badge/PyTest-7.1.2-red">
 </p>
 
  <div>
