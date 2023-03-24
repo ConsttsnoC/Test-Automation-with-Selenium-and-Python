@@ -17,7 +17,7 @@ try:
         return str(math.log(abs(12 * math.sin(int(x)))))
 
 
-    print calc(x)
+    print(calc(x))
 
     input1 = browser.find_element(By.CSS_SELECTOR, "#answer")
     input1.send_keys(calc(x))
