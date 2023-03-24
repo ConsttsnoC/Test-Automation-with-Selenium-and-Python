@@ -21,6 +21,17 @@
       <h3>Этот репозиторий содержит решения тестовых заданий по автоматизации тестирования:
 <br>
 <br>
-<li>Создано на Python</li>
-<li>Используется selenium - 4.1.0</li>
+<li>Создано на <code>Python</code></li>
+<br>
+<li>Используется <code>unittest</code></li>
+<br>
+<li>Используется <code>selenium - 4.1.0</code></li>
+<br>
+<li>Используется <code>pytest - 7.1.2</code></li>
 
+
+
+<h3><img src="https://img.icons8.com/dusk/64/000000/rocket.png" height="30"/> Инструкция по работе с приложением <img src="https://img.icons8.com/dusk/64/000000/rocket.png" height="30"/></h3>
+<ul>
+    <li>Запустите виртуальное окржение</li>
+    <li>Установите пакеты используя <code>requirements.txt</code>
