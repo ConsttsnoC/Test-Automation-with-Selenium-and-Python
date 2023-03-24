@@ -33,5 +33,6 @@
 
 <h3><img src="https://img.icons8.com/dusk/64/000000/rocket.png" height="30"/> Инструкция по работе с приложением <img src="https://img.icons8.com/dusk/64/000000/rocket.png" height="30"/></h3>
 <ul>
-    <li>Запустите виртуальное окржение</li>
+    <li>Запустите виртуальное окружение</li>
     <li>Установите пакеты используя <code>requirements.txt</code>
+</ul>
